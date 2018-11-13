@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+<android.support.v7.widget.CardView
+
+    android:layout_width="match_parent"
+    android:layout_margin="10dp"
+    android:padding="1dp"
+    app:cardElevation="1dp"
+    app:contentPadding="1dp"
+    app:cardCornerRadius="1dp"
+    android:layout_height="250dp">
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/pastor1"
+        android:contentDescription="@string/todo"/>
+
+</android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:padding="1dp"
+        app:cardElevation="1dp"
+        app:contentPadding="1dp"
+        app:cardCornerRadius="1dp"
+        android:layout_height="250dp">
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/pastor2"
+            android:contentDescription="@string/todo"/>
+
+    </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor3"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor4"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor6"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor7"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor8"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor9"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor10"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+
+            android:layout_width="match_parent"
+            android:layout_margin="10dp"
+            android:padding="1dp"
+            app:cardElevation="1dp"
+            app:contentPadding="1dp"
+            app:cardCornerRadius="1dp"
+            android:layout_height="250dp">
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/pastor11"
+                android:contentDescription="@string/todo"/>
+
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>

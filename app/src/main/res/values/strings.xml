@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CLG</string>
+    <string name="history">History</string>
+    <string name="history1">Church of the Living God was established in the year 2009 when God gave Pr. Arul the vision to minister among the Tamil speaking people living in and around the region of Hanworth, Feltham and Hounslow. Since then, the church has grown to embrace multi-culturalism.</string>
+    <string name="testing">CLG</string>
+    <string name="testingdata">CLG</string>
+    <string name="MissionandVision">Our vision is to reach out the lost souls for the Lord. We aim to bring multitudes to the saving power of the Lord Jesus Christ.</string>
+    <string name="WhatWeBelieve">The Bible: We believe the entire Bible is inspired by God (II Timothy 3:16), without error and its the authority on which we base our faith, conduct and doctrine.</string>
+    <string name="message">I have one message for you - “God is our refuge and strength, a very present help in trouble.” Our God is faithful and He will never let His people be put to shame. We have the assurance that our God cares about us and always loves us. So let us “Give thanks to the LORD, for He is good! His faithful love endures forever.”</string>
+    <string name="privacystatement">Personal data relates to a living individual (data subject) who can be identified from that data. Identification can be by the information alone or in conjunction with any other information in the data controller’s possession or likely to come into such possession. The processing of personal data is governed by the General Data Protection Regulation (the “GDPR”).</string>
+    <string name="pr_arul_s_message">Pr.Arul’s message</string>
+    <string name="privacy_statement">Privacy Statement</string>
+    <string name="mission_and_vision">Mission and Vision</string>
+    <string name="what_we_believe">What We Believe</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+
+    <string name="thumbnail_image_view_desc">Youtube Video thumbnail image view</string>
+    <string name="close_player_activity">Close Player activity</string>
+
+
+    <string name="title_of_video">Title of Video</string>
+    <string name="time_of_video">Time of Video</string>
+
+    //Change the channel ID:
+    <string name="url_put_chutney">UCwE4vIY0Jh_tsfSHENlSSIg</string>
+    <string name="address">            194 South Road
+                            Hanworth
+                            </string>
+    <string name="address2">United Kingdom</string>
+    <string name="address3">TW13 6UH</string>
+    <string name="address4">Feltham</string>
+    <string name="history2">Initially, the church started as a home group with a small number of people and gradually many souls were added to the CLG family. Over the period of time, the church has branched out to various indoor and outdoor ministries.</string>
+    <string name="message1">Beloved in Christ,</string>
+    <string name="message2">Indeed, our God is good. God is good, all the time! Amen!</string>
+    <string name="WhatWeBelieve1">The Trinity: We believe in one God who exists in three distinct persons: Father, Son and the Holy Spirit (I John 5:7). We believe Jesus Christ is the Son of God, who came to this earth as Saviour of the world (John 3:16)\\</string>
+    <string name="WhatWeBelieve2">Water Baptism:We believe water baptism is a symbol of the cleansing power of the Blood of Christ and a testimony to our faith in the Lord Jesus Christ (Matthew 3:15, John 3:5, Mark 16:16). We believe in immersion baptism.</string>
+    <string name="WhatWeBelieve3">Communion: We believe in the regular taking of Communion as an act of remembering what the Lord Jesus did for us on the cross (I Corinthians 11:24).</string>
+    <string name="WhatWeBelieve4">Growing Relationship: We believe every believer should be in a growing relationship with Jesus by obeying Gods Word, yielding to the Holy Spirit and by being conformed to the image of Christ (Romans 8:29).</string>
+    <string name="privacystatement1">Church of the Living God Hanworth 2009(CLG), Feltham, UK</string>
+    <string name="privacystatement2">Registered Charity in England and Wales: 1150589</string>
+    <string name="privacystatement3">Your personal data – what is it ? </string>
+    <string name="MissionandVision5">To support the education and welfare of children with financial difficulties.</string>
+    <string name="MissionandVision4">To support 100 missionaries by the year 2020.</string>
+    <string name="MissionandVision3">To pray continually for the revival in the families.</string>
+    <string name="MissionandVision2">To spiritually uplift and inspire lives for the Lord.</string>
+    <string name="MissionandVision1">Our mission is:</string>
+    <string name="message3">Pastor Arul</string>
+
+
+    <string name="err_msg_email">Please Enter A Valid Email Id</string>
+
+</resources>
