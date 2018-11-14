@@ -9,6 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 
 import com.church.clg.R;
+
 import com.church.clg.SendMail;
 
 import java.util.Objects;

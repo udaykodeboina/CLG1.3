@@ -23,9 +23,9 @@
             android:screenOrientation="portrait"/>
         <activity android:name=".Activity.ContactUsActivity"
             android:screenOrientation="portrait"/>
-        <activity android:name=".Activity.CalendarActivity"
+        <activity android:name=".Activity.PrayerRequest2"
             android:screenOrientation="portrait"/>
-        <activity android:name=".Activity.PrayerRequestActivity"
+        <activity android:name=".Activity.CalendarActivity"
             android:screenOrientation="portrait"/>
 
         <activity android:name=".Activity.MeetingsActivity"
@@ -34,8 +34,6 @@
             android:screenOrientation="portrait"/>
         <activity android:name=".Activity.VideoActivity1"
             android:screenOrientation="portrait"/>
-        <activity android:name=".PrayerRequest2"
-            android:screenOrientation="portrait" />
         <activity android:name=".Activity.GalleryActivity2"
             android:screenOrientation="portrait"/>
         <activity android:name=".Activity.SplashScreenActivity"

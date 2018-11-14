@@ -1,22 +1,16 @@
 package com.church.clg.Activity;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.annotation.NonNull;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
 import com.church.clg.Adapter.CustomAdapter;
-import com.church.clg.DBHelper;
 import com.church.clg.Model.ImageModel;
-import com.church.clg.PathGenerator;
-import com.church.clg.PrayerRequest2;
 import com.church.clg.R;
 import com.church.clg.Adapter.SlidingImage_Adapter;
 
@@ -74,11 +68,11 @@ public class MainActivity extends AppCompatActivity{
                     Intent intent = new Intent(MainActivity.this, VideoActivity.class);
                     startActivity(intent); // start Intent
                 }
-
-
                 if(position==2) {
                     Intent intent = new Intent(MainActivity.this,PrayerRequest2.class);
                     startActivity(intent); // start Intent
+
+
                 }
 
                 if(position==3) {
